@@ -3,7 +3,11 @@ package com.example.myapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+/*
+sorry for the poor looking code I am doing this much too late at night
+Feb 24, 2023
+@author Jackson Smith
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
